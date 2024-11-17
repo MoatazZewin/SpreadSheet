@@ -2,6 +2,10 @@
 
 This is a simple, interactive spreadsheet application implemented in JavaScript, HTML, and CSS. It supports arithmetic operations, custom spreadsheet functions, and formula-based calculations with cell references and ranges.
 
+## Live Demo
+
+<a href="https://animated-bublanina-782596.netlify.app/" target="_blank">View the live demo here</a>
+
 ## Features
 
 - **Basic Arithmetic**: Supports addition (`+`), subtraction (`-`), multiplication (`*`), and division (`/`).
